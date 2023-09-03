@@ -23,7 +23,7 @@ Presently, my endeavors are centered around the creation of real-time deep learn
 
 ## I was frustrated and sad because of...
 
-1) [Project Gesta - Core Incubator - relationship](http://coreincubator.info)
+1) [Project Gesta - Core Incubator - relationship](http://coreincubator.info) (in Croatian)
 2) ["Businesses and "Part of the Family"](http://lazlo326.info) (have to fix the grammar some day... maybe...)
 
 ## Contact
