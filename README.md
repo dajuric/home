@@ -16,14 +16,14 @@ Presently, my endeavors are centered around the creation of real-time deep learn
 -----------------------
 ## Comapines I worked for
 
-1) a small startup company based in US - *media encoding and video rendering*
+1) a small startup company based in US - *media encoding and video rendering*    
 2) [Real Networks](https://realnetworks.okta.com/) - *computer vsion - face anti spoofing algorithms and procedures*
 
 -----------------------
 
 ## I was frustrated and sad because of...
 
-1) [Project Gesta - Core Incubator - relationship](http://coreincubator.info) (in Croatian)
+1) [Project Gesta - Core Incubator - relationship](http://coreincubator.info) (in Croatian)     
 2) ["Businesses and "Part of the Family"](http://lazlo326.info) (have to fix the grammar some day... maybe...)
 
 ## Contact
