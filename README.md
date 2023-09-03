@@ -14,10 +14,10 @@ Notably, I even undertook the endeavor of constructing a condensed iteration of 
 Presently, my endeavors are centered around the creation of real-time deep learning applications for secure face recognition.
 
 -----------------------
-## Comapines I worked for
+## Companies I worked for
 
 1) a small startup company based in US - *media encoding and video rendering*     
-2) [Real Networks](https://realnetworks.okta.com/) - *computer vsion - face anti spoofing algorithms and procedures*    
+2) [Real Networks](https://realnetworks.okta.com/) - *computer vision - face anti spoofing algorithms and procedures*    
 
 -----------------------
 
