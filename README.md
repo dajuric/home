@@ -14,10 +14,11 @@ Notably, I even undertook the endeavor of constructing a condensed iteration of 
 Presently, my endeavors are centered around the creation of real-time deep learning applications for secure face recognition.
 
 -----------------------
-## Companies I worked for
+## Main companies I worked for
 
-1) a small startup company based in US - *media encoding and video rendering*     
-2) [Real Networks](https://realnetworks.okta.com/) - *computer vision - face anti spoofing algorithms and procedures*    
+1) 2013-2015 - [Faculty of Electrical Engineering and Computing Zagreb (FER)](https://www.fer.unizg.hr/) as a research assistant - *automotive - ADAS*
+1) 2016-2022 - [Lazlo 326](http://lazlo326.com) - a small startup company based in US - *media encoding and video rendering algorithms and procedures*     
+2) 2023-20XX - [Real Networks](https://realnetworks.com/) - *computer vision - face anti spoofing algorithms and procedures*    
 
 -----------------------
 
